@@ -1,0 +1,276 @@
+GTO Wizard Website Screenshots Index
+=====================================
+Downloaded: 2026-02-19
+Source: https://gtowizard.com (Webflow CDN: cdn.prod.website-files.com)
+Total files: 60
+
+=== STUDY SECTION - AI Solver ===
+ai-solver-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d5046f2c0beae04482c35d_ai-solver-default.avif
+  Feature: AI Solver - default state card showing the AI-powered solver interface
+
+ai-solver-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d5046f936a1f96e57f18fc_ai-solver-hover.avif
+  Feature: AI Solver - hover state card with expanded detail view
+
+=== STUDY SECTION - Library of Solutions ===
+library-of-solutions-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d5046fb3f184ec1e5893f9_library-of-solutions-default.avif
+  Feature: Library of Solutions - default state card
+
+library-of-solutions-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68cc043543829211fbdad0cb_library-of-solutions-hover.avif
+  Feature: Library of Solutions - hover state card with expanded view
+
+library-of-solutions.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68dc341104b1fca79d506f91_library-of-solutions.avif
+  Feature: Library of Solutions - alternative/display version
+
+=== STUDY SECTION - Aggregated Reports ===
+aggregated-reports-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d5046f0572b8af74cc9ceb_aggregated-reports-default.avif
+  Feature: Aggregated Reports - default state card
+
+aggregated-reports-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d5046f936a1f96e57f1907_aggregated-reports-hover.avif
+  Feature: Aggregated Reports - hover state card
+
+aggregated-reports.png
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68aa4544b5f6457caa6d9d8d_aggregated-reports.png
+  Feature: Aggregated Reports - standalone PNG image showing report interface
+
+=== NAVIGATION ANCHORS - Study / Practice / Analyze ===
+study-anchor.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d418bc60f38d726c72556f_study-anchor.avif
+  Feature: Study section anchor/tab - default state
+
+study-anchor-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d41970a26886c16e1a55a2_study-anchor-hover.avif
+  Feature: Study section anchor/tab - hover state
+
+practice-anchor.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d418bc36bdcc05e759f0f4_practice-anchor.avif
+  Feature: Practice section anchor/tab - default state
+
+practice-anchor-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d41970acdc5e5594470eab_practice-anchor-hover.avif
+  Feature: Practice section anchor/tab - hover state
+
+analyze-anchor.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d418bc4df07545fdd0fceb_analyze-anchor.avif
+  Feature: Analyze section anchor/tab - default state
+
+analyze-anchor-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d41970c55cd06c3bfed7ea_analyze-anchor-hover.avif
+  Feature: Analyze section anchor/tab - hover state
+
+=== PRACTICE SECTION - Most Advanced Trainer ===
+practice-advanced-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68c9a5ba76916595df7f525a_Most%20advanced%20def.avif
+  Feature: Most Advanced Poker Trainer - default state showing trainer interface
+
+practice-advanced-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68c9a5ba25a24ec36afe3c7b_Most%20advanced%20hover.avif
+  Feature: Most Advanced Poker Trainer - hover state with expanded view
+
+=== PRACTICE SECTION - Train Any Spot ===
+practice-train-any-spot-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68c9a5bac06f20e9292cf288_Train%20any%20spot%20def.avif
+  Feature: Train Any Spot - default state showing spot selection
+
+practice-train-any-spot-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68c9a5ba39c12267f0d3cf3d_Train%20any%20spot%20hover.avif
+  Feature: Train Any Spot - hover state with expanded training options
+
+=== PRACTICE SECTION - Create Custom Drills ===
+practice-custom-drills-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68c9a5bae7ca6b97518dcb4c_Create%20custom%20drills%20def.avif
+  Feature: Create Custom Drills - default state showing drill builder
+
+practice-custom-drills-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68c9a5ba7ccac5193f9ed1d5_Create%20custom%20drills%20hover.avif
+  Feature: Create Custom Drills - hover state with drill configuration
+
+=== PRACTICE SECTION - Instant Feedback ===
+practice-instant-feedback-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68c9a5ba57b56562755af117_Get%20instant%20feedback%20def.avif
+  Feature: Get Instant Feedback - default state showing feedback interface
+
+practice-instant-feedback-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68c9a5ba787a244b582593b4_Get%20instant%20feedback%20hover.avif
+  Feature: Get Instant Feedback - hover state with detailed feedback view
+
+=== ANALYZE SECTION - GTO Reports ===
+gto-reports-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d506d91a9483b5fb56470f_gto-reports-default.avif
+  Feature: GTO Reports - default state showing reports dashboard
+
+gto-reports-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d506d90770e7b223def941_gto-reports-hover.avif
+  Feature: GTO Reports - hover state with expanded report view
+
+=== ANALYZE SECTION - Analyzer 2.0 ===
+analyzer-2.0-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d506d9395a29f6e3414220_analyzer-2.0-default.avif
+  Feature: Analyzer 2.0 - default state showing hand analysis interface
+
+analyzer-2.0-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d506d9ee0c86c977d582d8_analyzer-2.0-hover.avif
+  Feature: Analyzer 2.0 - hover state with detailed analysis view
+
+=== TABLE WIZARD SECTION ===
+streamlined-table-layouts.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68ab4af5a45826faf841a6cc_streamlined-table-layouts.avif
+  Feature: Table Wizard - streamlined table layouts for online poker
+
+streamlined-table-layouts-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adcc5e36f0ab1d3b215653_streamlined-table-layouts-hover.avif
+  Feature: Table Wizard - streamlined table layouts hover state
+
+customizable-bet-sliders.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68ab4af5be666e7f53b34ba3_customizable-bet-sliders.avif
+  Feature: Table Wizard - customizable bet sliders interface
+
+customizable-bet-sliders-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc8c681d151612a1edcf1_customizable-bet-sliders-hover.avif
+  Feature: Table Wizard - customizable bet sliders hover state
+
+hotkeys-for-every-action-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc8c6b04bf90be87e5fdf_hotkeys-for-every-action-default.avif
+  Feature: Table Wizard - hotkeys for every action default state
+
+hotkeys-for-every-action-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc8c6fdd517c8e2baaba5_hotkeys-for-every-action-hover.avif
+  Feature: Table Wizard - hotkeys for every action hover state
+
+overlays-for-rng-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc8c6cb6091c75bb962c8_overlays-for-rng-default.avif
+  Feature: Table Wizard - RNG overlays default state
+
+overlays-for-rng-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc8c698d5d0d6de920a8d_overlays-for-rng-hover.avif
+  Feature: Table Wizard - RNG overlays hover state
+
+automatic-hand-history-uploads-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc8c6167afa69c3201bb3_automatic-hand-history-uploads-default.avif
+  Feature: Table Wizard - automatic hand history uploads default state
+
+automatic-hand-history-uploads-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adcc610d9ecf56a75c6d70_automatic-hand-history-uploads-hover.avif
+  Feature: Table Wizard - automatic hand history uploads hover state
+
+=== CONTENT SECTION - Blog ===
+blog-section-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc05765e2fb3ca4b50450_blog-section-default.avif
+  Feature: Blog section - default state showing blog content cards
+
+blog-section-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc057c8e2e861699c608b_blog-section-hover.avif
+  Feature: Blog section - hover state
+
+=== CONTENT SECTION - Study Plans ===
+study-plans-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc057b622bee55396c5fb_study-plans-default.avif
+  Feature: Study Plans section - default state showing learning paths
+
+study-plans-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc05760455ed727fbb622_study-plans-hover.avif
+  Feature: Study Plans section - hover state
+
+=== CONTENT SECTION - YouTube ===
+youtube-section-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc0573ac213e34464fcb9_youtube-section-default.avif
+  Feature: YouTube section - default state showing video content
+
+youtube-section-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc0583e22423f133d7ef1_youtube-section-hover.avif
+  Feature: YouTube section - hover state
+
+=== CONTENT SECTION - Coaching ===
+coaching-section-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc0573112fe6375eaea47_coaching-section-default.avif
+  Feature: Coaching section - default state showing coaching offerings
+
+coaching-section-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc057ecb89de7bfe872d9_coaching-section-hover.avif
+  Feature: Coaching section - hover state
+
+=== CONTENT SECTION - Daily Dose of GTO ===
+daily-dose-of-gto-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc0577bd00372bdace409_daily-dose-of-gto-section-default.avif
+  Feature: Daily Dose of GTO section - default state showing daily training puzzles
+
+daily-dose-of-gto-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc057c6e312fc7d369b9d_daily-dose-of-gto-section-hover.avif
+  Feature: Daily Dose of GTO section - hover state
+
+=== POKERARENA SECTION ===
+battle-heads-up-poker-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d50c05af1be682c651aa85_battle-in-heads-up-poker-section-default.avif
+  Feature: PokerArena - Battle in Heads-Up Poker default state
+
+battle-heads-up-poker-display.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68f11d77749e8a6f02082ce2_v2.avif
+  Feature: PokerArena - Battle in Heads-Up Poker display/active state
+
+master-your-game-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68adc54d902d737f7f42a76e_master-your-game-section-default.avif
+  Feature: PokerArena - Master Your Game default state
+
+master-your-game-display.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68f11d789788b8cc6cf6353d_master-your-game-section.avif
+  Feature: PokerArena - Master Your Game display/active state
+
+prove-you-are-the-best-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68d512b910c368cf95cff6cd_prove-you-are-the-best-section-default.avif
+  Feature: PokerArena - Prove You Are The Best default state (leaderboards)
+
+prove-you-are-the-best-display.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68f11d7793b120df403dd2b6_prove-you-are-the-best-section.avif
+  Feature: PokerArena - Prove You Are The Best display/active state
+
+=== INTEGRITY SECTION ===
+integrity-networks-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68ca8c578b03fcfdfe228235_Integration%20def.avif
+  Feature: Integrity - Network integrations default state (poker site partnerships)
+
+integrity-networks-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68ca8c576ee3b226c2229dfc_Integration%20hover.avif
+  Feature: Integrity - Network integrations hover state
+
+integrity-fair-play-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68ca8c57a72a221a5d94c0a3_Fair%20Play%20Check%20def.avif
+  Feature: Integrity - Fair Play Check default state
+
+integrity-fair-play-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68ca8c57e9dee5cfafb23fd6_Fair%20Play%20Check%20hover.avif
+  Feature: Integrity - Fair Play Check hover state
+
+integrity-gto-reports-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68ca8c574f6c9ca56590def7_GTO%20Reports%20def.avif
+  Feature: Integrity - GTO Reports for fair play default state
+
+integrity-gto-reports-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68ca8c57682cb3c4023c5856_GTO%20Reports%20hover.avif
+  Feature: Integrity - GTO Reports for fair play hover state
+
+integrity-ai-default.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68ca8c57fdf047f94216a3f2_GTO%20Wizard%20AI%20def.avif
+  Feature: Integrity - GTO Wizard AI for game integrity default state
+
+integrity-ai-hover.avif
+  Source: https://cdn.prod.website-files.com/68a98c9826dab9f7a78eef18/68ca8c568116d650ae7307ff_GTO%20Wizard%20AI%20hover.avif
+  Feature: Integrity - GTO Wizard AI for game integrity hover state
+
+=== SUMMARY BY SECTION ===
+Study Section:       7 files (AI Solver, Library, Aggregated Reports)
+Navigation Anchors:  6 files (Study, Practice, Analyze tabs)
+Practice Section:    8 files (Advanced Trainer, Train Any Spot, Custom Drills, Instant Feedback)
+Analyze Section:     4 files (GTO Reports, Analyzer 2.0)
+Aggregated Reports:  1 file  (standalone PNG)
+Table Wizard:       10 files (Layouts, Bet Sliders, Hotkeys, RNG Overlays, Hand History)
+Content Section:    10 files (Blog, Study Plans, YouTube, Coaching, Daily GTO)
+PokerArena Section:  6 files (Battle, Master Game, Prove Best)
+Integrity Section:   8 files (Networks, Fair Play, GTO Reports, AI)
+-----------------------------------------------
+TOTAL:              60 files

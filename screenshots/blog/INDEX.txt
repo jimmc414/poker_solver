@@ -1,0 +1,225 @@
+GTO Wizard Blog Screenshot Index
+=================================
+Generated: 2026-02-19
+Total files: 43
+
+================================================================================
+SOURCE: GTO Reports (Feb 2025)
+Blog URL: https://blog.gtowizard.com/major-upgrade-gto-reports-have-arrived-plus-tons-of-new-features/
+================================================================================
+
+gto-reports-thumbnail.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/03/gto-wizard-major-upgrade-gto-reports-have-arrived-plus-tons-of-new-features-blogpost-thumbnail.png
+  Depicts: Blog post featured image / thumbnail for GTO Reports announcement
+
+gto-reports-stat-comparisons.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/02/gto-wizard-gto-reports-your-personalized-leak-finding-machine-image-1.png
+  Depicts: GTO Reports interface showing stat comparisons (your stats vs GTO)
+
+gto-reports-preflop-stats.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/02/gto-wizard-gto-reports-your-personalized-leak-finding-machine-image-2.png
+  Depicts: Core preflop stats breakdown display
+
+gto-reports-filtering.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/02/gto-wizard-gto-reports-your-personalized-leak-finding-machine-image-3.png
+  Depicts: Advanced filtering options interface for GTO Reports
+
+gto-reports-position-matrix.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/02/gto-wizard-gto-reports-your-personalized-leak-finding-machine-image-4.png
+  Depicts: Position vs position matrix visualization
+
+gto-reports-defense-analysis.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/02/gto-wizard-gto-reports-your-personalized-leak-finding-machine-image-5.png
+  Depicts: Defense strategy analysis interface
+
+gto-reports-postflop-actions.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/02/gto-wizard-gto-reports-your-personalized-leak-finding-machine-image-6-n.png
+  Depicts: Postflop action sequence filtering interface
+
+gto-reports-analyzer-filters.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/02/gto-wizard-gto-reports-your-personalized-leak-finding-machine-image-7.png
+  Depicts: Enhanced analyzer filters UI
+
+================================================================================
+SOURCE: Introducing Nodelocking (Oct 2023)
+Blog URL: https://blog.gtowizard.com/introducing-nodelocking/
+================================================================================
+
+nodelocking-thumbnail.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2023/10/gto-wizard-introducing-nodelocking-blogpost-thumbnail.png
+  Depicts: Nodelocking feature announcement thumbnail
+
+nodelocking-interface.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2023/10/gto-wizard-introducing-nodelocking-image-1.png
+  Depicts: Nodelocking interface with locked nodes shown
+
+nodelocking-strategy-viz.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2023/10/gto-wizard-introducing-nodelocking-image-3-4png.png
+  Depicts: Applied nodelocking strategy visualization
+
+nodelocking-set-frequency.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2023/10/gto-wizard-introducing-nodelocking-image-18.png
+  Depicts: "Set Frequency" tab interface
+
+nodelocking-set-strategy.gif
+  Source: https://blog.gtowizard.com/wp-content/uploads/2023/10/gto-wizard-introducing-nodelocking-image-21-2.gif
+  Depicts: Animated demonstration of Set Strategy interface workflow
+
+nodelocking-frequency-slider.gif
+  Source: https://blog.gtowizard.com/wp-content/uploads/2023/10/gto-wizard-introducing-nodelocking-image-19-2.gif
+  Depicts: Animated demonstration of frequency slider adjustments
+
+================================================================================
+SOURCE: Analyzer 2.0 (Nov 2024)
+Blog URL: https://blog.gtowizard.com/redefining-precision-introducing-hh-analyzer-2-0-and-much-more/
+================================================================================
+
+analyzer2-thumbnail.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2024/11/gto-wizard-redefining-precision-introducing-hh-analyzer-2-0-and-much-more-blogpost-thumbnail.png
+  Depicts: Analyzer 2.0 announcement featured image
+
+analyzer2-hero-interface.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2024/11/gto-wizard-gto-analyzer-v2-precision-just-got-better-image-1-new.png
+  Depicts: Analyzer 2.0 hero interface overview
+
+analyzer2-position-breakdown.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2024/11/gto-wizard-gto-analyzer-v2-precision-just-got-better-image-3.png
+  Depicts: Performance breakdown by position
+
+analyzer2-preflop-action.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2024/11/gto-wizard-gto-analyzer-v2-precision-just-got-better-image-4.png
+  Depicts: Preflop action analysis screenshot
+
+analyzer2-street-decisions.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2024/11/gto-wizard-redefining-precision-introducing-hh-analyzer-2-0-and-much-more-street.png
+  Depicts: Street-by-street decision analysis UI
+
+analyzer2-preflop-aggression.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2024/11/gto-wizard-redefining-precision-introducing-hh-analyzer-2-0-and-much-more-preflop-aggression.png
+  Depicts: Preflop aggression evaluation
+
+analyzer2-srp-report.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2024/11/gto-wizard-gto-analyzer-v2-precision-just-got-better-image-5-new.png
+  Depicts: Single-raised pot analysis filtered report
+
+analyzer2-hands-table.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2024/11/gto-wizard-gto-analyzer-v2-precision-just-got-better-image-6-new.png
+  Depicts: Hands table interface with filtering options
+
+analyzer2-hand-analysis.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2024/11/gto-wizard-gto-analyzer-v2-precision-just-got-better-image-7-new.png
+  Depicts: Detailed GTO hand analysis view
+
+================================================================================
+SOURCE: Redesigned Analyzer & Upgraded GTO Reports (Sep 2025)
+Blog URL: https://blog.gtowizard.com/redesigned_analyzer_and_upgraded_gto_reports/
+================================================================================
+
+redesigned-analyzer-thumbnail.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/09/thumbnail-article.png
+  Depicts: Redesigned Analyzer article featured image
+
+redesigned-hand-filtering.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/09/1-3.png
+  Depicts: Hand filtering by action sequences
+
+redesigned-natural-language-filter.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/09/2-3.png
+  Depicts: Natural language filter search functionality
+
+redesigned-preflop-mistakes.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/09/3-2.png
+  Depicts: GTO Reports preflop mistake analysis interface
+
+redesigned-flop-general-view.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/09/4-2.png
+  Depicts: Flop General View comparison interface
+
+redesigned-table-wizard-upload.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/09/5-3.png
+  Depicts: Table Wizard auto-upload feature
+
+redesigned-nodelocking-handclass.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/09/6-3.png
+  Depicts: Nodelocking interface with hand class filtering
+
+================================================================================
+SOURCE: 3-Way Solving & Nodelocking 2.0 (Aug 2025)
+Blog URL: https://blog.gtowizard.com/now_live_3_way_solving_nodelocking_2_0_and_50k_icm_ft_sims/
+================================================================================
+
+3way-solving-thumbnail.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/08/thumbnail-article.png
+  Depicts: 3-Way Solving & Nodelocking 2.0 announcement thumbnail
+
+3way-solving-interface.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/08/2.png
+  Depicts: 3-way solving interface features
+
+3way-exploitability-benchmark.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/08/3-1.png
+  Depicts: Turn exploitability benchmark data and metrics chart
+
+3way-sb-decision-tree.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/08/4.png
+  Depicts: SB first action decision tree in example hand
+
+3way-btn-response.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/08/5.png
+  Depicts: Checks to BTN response patterns visualization
+
+3way-sb-vs-btn-bet.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/08/6.png
+  Depicts: SB versus BTN bet scenario analysis
+
+================================================================================
+SOURCE: Custom Aggregated Reports (May 2025)
+Blog URL: https://blog.gtowizard.com/introducing_custom_aggregated_reports/
+================================================================================
+
+aggregated-reports-thumbnail.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/05/thumbnail-app-1.png
+  Depicts: Custom Aggregated Reports feature announcement thumbnail
+
+aggregated-reports-flop-cbet.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/05/2-3.png
+  Depicts: Button's aggregated flop c-bet strategy visualization (BTN vs BB)
+
+aggregated-reports-custom-tab.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/05/3-3.png
+  Depicts: Custom reports tab interface with solution selector
+
+aggregated-reports-pricing.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/05/6-3.png
+  Depicts: Complexity pricing reference table (Power Credits cost)
+
+aggregated-reports-complexity.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/05/4-3.png
+  Depicts: Additional complexity/pricing reference visual
+
+================================================================================
+SOURCE: Table Wizard (Jun 2025)
+Blog URL: https://blog.gtowizard.com/introducing_table_wizard_the_ultimate_table_management_software/
+================================================================================
+
+table-wizard-hero.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/06/table-wizard.png
+  Depicts: Table Wizard software feature hero image
+
+table-wizard-overlay.png
+  Source: https://blog.gtowizard.com/wp-content/uploads/2025/06/article-image.png
+  Depicts: Table Wizard action replay and overlay features
+
+================================================================================
+SUMMARY BY SOURCE
+================================================================================
+
+GTO Reports (Feb 2025):            8 images (7 UI screenshots + 1 thumbnail)
+Nodelocking (Oct 2023):            6 images (3 PNGs + 2 GIFs + 1 thumbnail)
+Analyzer 2.0 (Nov 2024):          9 images (8 UI screenshots + 1 thumbnail)
+Redesigned Analyzer (Sep 2025):    7 images (6 UI screenshots + 1 thumbnail)
+3-Way Solving (Aug 2025):          6 images (5 UI screenshots + 1 thumbnail)
+Custom Aggregated Reports (May 2025): 5 images (4 UI screenshots + 1 thumbnail)
+Table Wizard (Jun 2025):           2 images (1 UI screenshot + 1 hero image)
+-------------------------------------------------------
+TOTAL:                            43 images

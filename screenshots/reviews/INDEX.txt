@@ -1,0 +1,69 @@
+# Review Site Screenshots Index
+# Downloaded from third-party GTO Wizard review sites
+# Date: 2026-02-19
+
+## From solvers.poker (https://solvers.poker/review/gtowizard/)
+
+solvers-poker-main.png
+  Source: http://solvers.poker/wp-content/uploads/2024/12/gtowizard-mainpage-1024x575.png
+  Shows: GTO Wizard main page interface - solver study view with strategy matrix and game tree navigation
+
+solvers-poker-trainer.png
+  Source: http://solvers.poker/wp-content/uploads/2024/12/gtowizard-trainer-1024x381.png
+  Shows: GTO Trainer feature - practice mode with simulated hand decisions
+
+solvers-poker-study-plan.png
+  Source: http://solvers.poker/wp-content/uploads/2024/12/gtowizard-study-plan.png
+  Shows: Study plan interface - structured learning path with lesson progression
+
+solvers-poker-pricing.png
+  Source: http://solvers.poker/wp-content/uploads/2024/12/gtowizard-plans-936x1024.png
+  Shows: Pricing plans comparison - subscription tiers with feature breakdown
+
+## From hand2noteguide.com (https://hand2noteguide.com/gto-wizard-review/)
+
+h2n-main.webp
+  Source: https://hand2noteguide.com/wp-content/uploads/2024/03/1-gto-wizard-main-min-1024x660.webp
+  Shows: Main GTO Wizard interface - solver view with range matrix and board cards
+
+h2n-login.webp
+  Source: https://hand2noteguide.com/wp-content/uploads/2024/03/2-gto-wizard-login-min-1024x685.webp
+  Shows: Login/sign-up page for GTO Wizard account creation
+
+h2n-dashboard.webp
+  Source: https://hand2noteguide.com/wp-content/uploads/2024/03/3-gto-wizard-main-min-1024x664.webp
+  Shows: User dashboard with trainer stats, analyzed hands count, and quick navigation
+
+h2n-library.webp
+  Source: https://hand2noteguide.com/wp-content/uploads/2024/03/4-gto-wizard-library-1-2-min-1024x586.webp
+  Shows: Solutions library with game parameters, stack depths, and solution tree navigation
+
+h2n-game-types.webp
+  Source: https://hand2noteguide.com/wp-content/uploads/2024/03/5-gto-wizard-game-types-min-1024x697.webp
+  Shows: Game format customization - cash, tournament, spin & go, and other game type selection
+
+h2n-practice.webp
+  Source: https://hand2noteguide.com/wp-content/uploads/2024/03/6-gto-wizard-practice-min-1024x616.webp
+  Shows: Practice section with training statistics and drill mode configuration
+
+h2n-trainer.webp
+  Source: https://hand2noteguide.com/wp-content/uploads/2024/03/7-gto-wizard-trainer-min-1024x742.webp
+  Shows: Trainer in action - simulated gameplay with decision prompts and EV feedback
+
+h2n-analyzed-hands.webp
+  Source: https://hand2noteguide.com/wp-content/uploads/2024/03/9-gto-wizard-analyzed-hands-min-1024x701.webp
+  Shows: Hand history analyzer - list of evaluated hands with mistake classification
+
+h2n-settings.webp
+  Source: https://hand2noteguide.com/wp-content/uploads/2024/03/10-gto-wizard-settings-min-1024x653.webp
+  Shows: App settings and configuration - display preferences, hotkeys, and theme options
+
+## From hand2noteguide.com (https://hand2noteguide.com/gto-wizard-price/)
+
+h2n-pricing.png
+  Source: https://hand2noteguide.com/wp-content/uploads/2024/07/gto-wizard-price-min.png
+  Shows: GTO Wizard pricing table - full subscription tier comparison with features
+
+h2n-discount.png
+  Source: https://hand2noteguide.com/wp-content/uploads/2024/07/gto-wizard-discount-min.png
+  Shows: Annual subscription discount promotion and savings information
