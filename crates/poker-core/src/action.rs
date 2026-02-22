@@ -34,7 +34,7 @@ mod tests {
 
     #[test]
     fn test_action_enum() {
-        let actions = vec![
+        let actions = [
             Action::Fold,
             Action::Check,
             Action::Call,

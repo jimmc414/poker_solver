@@ -6,7 +6,9 @@ Cargo.lock
 # Frontend
 node_modules/
 dist/
+.vite/
 *.tsbuildinfo
+*.timestamp-*.mjs
 
 # Poker solver data
 *.sol

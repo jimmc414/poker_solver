@@ -1,5 +1,5 @@
 use criterion::{criterion_group, criterion_main, Criterion, Throughput};
-use poker_core::{Card, Rank, Suit};
+use poker_core::Card;
 use poker_eval::LookupTableEvaluator;
 use rand::rngs::StdRng;
 use rand::seq::SliceRandom;

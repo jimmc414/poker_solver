@@ -2,6 +2,7 @@
 members = [
     "crates/poker-core",
     "crates/poker-eval",
+    "crates/app-tauri",
 ]
 resolver = "2"
 
@@ -15,3 +16,7 @@ serde = { version = "1", features = ["derive"] }
 serde_json = "1"
 thiserror = "2"
 tracing = "0.1"
+tauri = { version = "2", features = ["devtools"] }
+tauri-build = { version = "2", features = [] }
+toml = "0.8"
+directories = "5"
